@@ -55,7 +55,7 @@ var albumsLength = albums.length
 function addArtist(nameOfArtist){
 
     
-    var message = "Field is empty, Please enter a value"
+    var message = "Field is empty, Please enter a name"
 
     if (nameOfArtist === ""){
         return message
